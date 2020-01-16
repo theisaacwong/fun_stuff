@@ -22,4 +22,4 @@ Options:
 MyFirstCalculator
 
 
-Unfortunately, I only support numbers up to 50. But I'm working on increasing support for larger numbers - typing everything takes so much time!
+Unfortunately, I only support numbers up to 50. But I'm working on increasing support for larger numbers - typing everything just takes so much time!
