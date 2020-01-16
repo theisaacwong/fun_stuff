@@ -16,3 +16,10 @@ Options:
 -e,     --end           ending URL to reach, default: https://en.wikipedia.org/wiki/Jesus
 -d,     --depth         maximum depth to search, default: 7
 </pre>
+
+
+
+MyFirstCalculator
+
+
+Unfortunately, I only support numbers up to 50. But I'm working on increasing support for larger numbers - typing everything takes so much time!
