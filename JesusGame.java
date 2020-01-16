@@ -20,8 +20,6 @@ public class JesusGame {
 //		System.out.println("Java version: " + System.getProperty("java.version"));
 //		System.out.println("Heap Size: " + getHeapSize());
 		
-		
-		
 		String start = "https://en.wikipedia.org/wiki/Tea";
 		String end = "https://en.wikipedia.org/wiki/Jesus";
 		int maxDepth = 7;
@@ -112,7 +110,7 @@ public class JesusGame {
 			Elements links = doc.select("a[href]");
 			for (Element link : links) {
 				String str = link.attr("abs:href");
-				if(!str.contains("#") && !str.contains(".jpg") && !str.contains("File:"))
+				if(!str.contains("#") && !str.contains(".jpg") && !str.contains("File:") && str.contains("en.wikipedia.org"))
 					rval.add(str);
 			}
 		} catch(Exception e) {
