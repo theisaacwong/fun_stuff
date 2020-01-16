@@ -20,7 +20,7 @@ public class JesusGame {
 //		System.out.println("Java version: " + System.getProperty("java.version"));
 //		System.out.println("Heap Size: " + getHeapSize());
 		
-		args = new String[] {"--start https://en.wikipedia.org/wiki/Tea"};
+		
 		
 		String start = "https://en.wikipedia.org/wiki/Tea";
 		String end = "https://en.wikipedia.org/wiki/Jesus";
