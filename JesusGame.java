@@ -47,6 +47,10 @@ public class JesusGame {
 			}
 		}
 		
+		if(maxDepth == -1) {
+			maxDepth=Integer.MAX_VALUE;
+		}
+		
 		bfs(start, end, maxDepth);
 		System.out.println(end);
 		
@@ -106,18 +110,23 @@ public class JesusGame {
 	public static ArrayList<String> getLinks(String url) throws IOException{
 		ArrayList<String> rval = new ArrayList<String>();
 		try {
+			System.out.print("\r" + url + "                              ");
 			Document doc = Jsoup.connect(url).ignoreContentType(true).get();
 			Elements links = doc.select("a[href]");
 			for (Element link : links) {
 				String str = link.attr("abs:href");
-				if(!str.contains("#") && !str.contains(".jpg") && !str.contains("File:") && str.contains("en.wikipedia.org"))
+				if(str.contains("#") || str.contains(".jpg") || str.lastIndexOf(":")!=5 || str.contains("%") || !str.contains("en.wikipedia.org/wiki/")) {
+					// do nothing
+				} else {
 					rval.add(str);
+				}
+					
 			}
 		} catch(Exception e) {
 			return rval;
 		}
 
-		System.out.print("\r" + url + "   "); 
+		 
 		return rval;
 	}
 	
