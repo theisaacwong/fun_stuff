@@ -26,6 +26,18 @@ Do simple math on the command line! supports +, -, /, and *
    2 </pre>
 Unfortunately, I only support inputing integers up to 50. But I'm working on increasing support for larger numbers - typing everything just takes so much time!
 
+## expr.R
+
+Using expr on linux is painful. Using R syntax instead is easier. Just alias this script in your .bashrc file and use R to evaluate expressions the same way.
+<pre>
+> expr 1+1
+  1+1
+> echo 'alias rexpr="Rscript expr.R"' >> ~/.bashrc
+> source ~/.bashrc
+> rexpr 1+1
+  2
+</pre>
+
 
 ## externFunctions.R (NSFW)
 
