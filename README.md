@@ -1,4 +1,25 @@
 # fun_stuff
+## HashMap
+a java-like implementation of a hashmap using R's reference class. Keys can only be strings, but values can be of ay type.
+<pre>
+myHash <- HashMap$new()
+> myHash <- HashMap$new()
+> myHash$put("hello", "there")
+> myHash$get("hello")
+[1] "there"
+> 
+> anotherHash <- HashMap$new()
+> anotherHash$put("general", "kenobi")
+> 
+> myHash$put("2nd_hash", anotherHash)
+> myHash$get("2nd_hash")$put("you", "are a bold one")
+> 
+> anotherHash$get("you")
+[1] "are a bold one"
+</pre>
+
+
+
 ## Jesus Game: https://en.wikipedia.org/wiki/Wikipedia:Wiki_Game
 Find Jesus from a given wikipedia page using only wikipedia links
 
