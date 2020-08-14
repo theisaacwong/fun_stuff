@@ -2,7 +2,6 @@
 ## HashMap
 a java-like implementation of a hashmap using R's reference class. Keys can only be strings, but values can be of any type.
 <pre>
-myHash <- HashMap$new()
 > myHash <- HashMap$new()
 > myHash$put("hello", "there")
 > myHash$get("hello")
@@ -12,8 +11,10 @@ myHash <- HashMap$new()
 > anotherHash$put("general", "kenobi")
 > 
 > myHash$put("2nd_hash", anotherHash)
-> myHash$get("2nd_hash")$put("you", "are a bold one")
+> myHash$get("2nd_hash")$get("general")
+[1] "kenobi"
 > 
+> myHash$get("2nd_hash")$put("you", "are a bold one")
 > anotherHash$get("you")
 [1] "are a bold one"
 </pre>
