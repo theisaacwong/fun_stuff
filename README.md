@@ -1,6 +1,6 @@
 # fun_stuff
 ## HashMap
-a java-like implementation of a hashmap using R's reference class. Keys can only be strings, but values can be of ay type.
+a java-like implementation of a hashmap using R's reference class. Keys can only be strings, but values can be of any type.
 <pre>
 myHash <- HashMap$new()
 > myHash <- HashMap$new()
