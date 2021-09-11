@@ -1,0 +1,98 @@
+
+++ Battalion Detachment 0CP (Imperium - Adeptus Astartes - Black Templars) [107 PL, 7CP, 1,998pts] ++
+
++ Configuration +
+
+Battle Size [12CP]: 3. Strike Force (101-200 Total PL / 1001-2000 Points) 
+
+Chapter Selection: Black Templars
+
+Detachment Command Cost
+
++ Stratagems +
+
+Crusader Relics [-1CP]
+
+Relics of the Chapter [-2CP]: 2x Number of Extra Relics
+
++ HQ +
+
+Chaplain in Terminator Armour [6 PL, 100pts]: 4. Mantra of Strength, Benediction of Fury, Combi-melta, Crozius arcanum, Litany of Hate
+
+High Marshal Helbrecht [8 PL, 155pts]: Combi-melta, Frag & Krak grenades, Frontline Commander, Sword of the High Marshals, Warlord
+
+Primaris Chaplain [6 PL, -1CP, 110pts]: 2. Psalm of the Remorseless Persecution, 5. Fervent Acclamation, Absolver Bolt pistol, Ancient Breviary, Chapter Command:  Master of Sanctity, Crozius arcanum, Frag & Krak grenades, Litany of Hate, Stratagem: Hero of the Chapter, Wise Orator
+
++ Troops +
+
+Assault Intercessor Squad [5 PL, 95pts]
+. 4x Assault Intercessor: 4x Astartes Chainsword, 4x Frag & Krak grenades, 4x Heavy Bolt Pistol
+. Assault Intercessor Sgt: Astartes Chainsword, Frag & Krak grenades, Heavy Bolt Pistol
+
+Assault Intercessor Squad [5 PL, 95pts]
+. 4x Assault Intercessor: 4x Astartes Chainsword, 4x Frag & Krak grenades, 4x Heavy Bolt Pistol
+. Assault Intercessor Sgt: Astartes Chainsword, Frag & Krak grenades, Heavy Bolt Pistol
+
+Assault Intercessor Squad [5 PL, 95pts]
+. 4x Assault Intercessor: 4x Astartes Chainsword, 4x Frag & Krak grenades, 4x Heavy Bolt Pistol
+. Assault Intercessor Sgt: Astartes Chainsword, Frag & Krak grenades, Heavy Bolt Pistol
+
+Assault Intercessor Squad [5 PL, 95pts]
+. 4x Assault Intercessor: 4x Astartes Chainsword, 4x Frag & Krak grenades, 4x Heavy Bolt Pistol
+. Assault Intercessor Sgt: Astartes Chainsword, Frag & Krak grenades, Heavy Bolt Pistol
+
+Infiltrator Squad [6 PL, 130pts]: Helix gauntlet
+. 4x Infiltrator: 4x Bolt pistol, 4x Frag & Krak grenades, 4x Marksman bolt carbine
+. Infiltrator Sergeant: Bolt pistol, Frag & Krak grenades, Marksman bolt carbine
+
++ Elites +
+
+Bladeguard Veteran Squad [10 PL, 175pts]
+. 4x Bladeguard Veteran: 4x Frag & Krak grenades, 4x Heavy Bolt Pistol, 4x Master-crafted power sword, 4x Storm Shield
+. Bladeguard Veteran Sergeant: Frag & Krak grenades, Heavy Bolt Pistol, Master-crafted power sword, Storm Shield
+
+Company Veterans [3 PL, 53pts]
+. Company Veteran: Frag & Krak grenades, Storm bolter, Storm shield
+. Company Veteran Sergeant: Astartes Chainsword, Frag & Krak grenades, Storm shield
+
+Judiciar [5 PL, 85pts]: Absolver Bolt pistol, Executioner Relic Blade, Frag & Krak grenades
+
+Primaris Apothecary [5 PL, -1CP, 115pts]: Absolver Bolt pistol, Chapter Command:  Chief Apothecary, Frag & Krak grenades, Reductor Pistol, Selfless Healer, Stratagem: Hero of the Chapter, The Crusader's Helm
+
+Relic Terminator Squad [9 PL, 200pts]
+. Relic Terminator: Chainfist, Combi-bolter
+. Relic Terminator: Chainfist, Combi-bolter
+. Relic Terminator: Chainfist, Combi-bolter
+. Relic Terminator Sergeant: Chainfist, Combi-bolter
+. Relic Terminator w/Heavy Weapon: Chainfist, Reaper autocannon
+
+Relic Terminator Squad [9 PL, 170pts]
+. Relic Terminator: Lightning Claw (Pair)
+. Relic Terminator: Lightning Claw (Pair)
+. Relic Terminator: Lightning Claw (Pair)
+. Relic Terminator: Lightning Claw (Pair)
+. Relic Terminator Sergeant: Lightning Claw, Lightning Claw
+
++ Fast Attack +
+
+Suppressor Squad [5 PL, 100pts]
+. 2x Suppressor: 2x Accelerator autocannon, 2x Bolt pistol, 2x Frag & Krak grenades
+. Suppressor Sergeant: Accelerator autocannon, Bolt pistol, Frag & Krak grenades
+
++ Heavy Support +
+
+Eliminator Squad [5 PL, 75pts]: Bolt sniper rifle
+. Eliminator Sergeant: Bolt pistol, Bolt sniper rifle, Camo cloak, Frag & Krak grenades, Witchseeker Bolts
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+Eliminator Squad [5 PL, 75pts]: Bolt sniper rifle
+. Eliminator Sergeant: Bolt pistol, Bolt sniper rifle, Camo cloak, Frag & Krak grenades
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+Eliminator Squad [5 PL, 75pts]: Bolt sniper rifle
+. Eliminator Sergeant: Bolt pistol, Bolt sniper rifle, Camo cloak, Frag & Krak grenades
+. 2x Eliminators: 2x Bolt pistol, 2x Camo cloak, 2x Frag & Krak grenades
+
+++ Total: [107 PL, 7CP, 1,998pts] ++
+
+Created with BattleScribe (https://battlescribe.net)
